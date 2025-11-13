@@ -60,10 +60,3 @@ def defence(text: str):
             else:
                 new_text += odd.pop(0)
     return new_text
-    
-    
-
-print(fence("borak"))
-print(defence("brkoa"))
-print(fence("yehuda"))
-print(defence("yhdeua"))
